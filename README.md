@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Paula 💻 </h1>
+<h1 align="center"> ✨ Hi, I'm Paula 💻 </h1>
 
 <h3 align="center">  Tech/Business Enthusiast | TAMU'23   </h3> <br>
 
