@@ -11,7 +11,7 @@
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Ask me about :** Flask, Python, Web Development, Databases, FGLI :v:
 -  **How to reach me :** email me at paulagero182@gmail.com!
 -  **Fun fact :** I love matcha :heart: 
 -  **Pronouns :** She/her/they/them
