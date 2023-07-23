@@ -1,7 +1,7 @@
 <h1 align="center"> Howdy, I'm Paula 💻 </h1>
 
 <h3 align="center">  TAMU'23   | Let's Connect!  </h3> <br>
----------------------------------
+
 <p>Hello! I’m Paula, a highly motivated and results-driven student with a passion for technology and innovation. My expertise lies in iOS and Web app development, API development, and organizational leadership. I am committed to delivering unique problem-solving and diverse perspectives.</p>
 
 <p>I am passionate about technology and innovation, and I am always looking for new challenges and opportunities to learn and grow. I believe that my skills and experience make me an ideal candidate for Product Management and Software Development/Engineering roles, and I am excited to explore new opportunities in this field.</p>
