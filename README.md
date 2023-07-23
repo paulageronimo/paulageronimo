@@ -6,12 +6,12 @@
 </p>
 
 🤓 I am a highly motivated and results-driven student passionate about technology and innovation.
-<br>
+<br><br>
 👩🏽‍💻 My expertise lies in iOS and Web app development, API development, and organizational leadership. I am committed to delivering unique problem-solving and diverse perspectives.
-<br>
+<br><br>
 🌱 I am passionate about technology and innovation-- always looking for new challenges and opportunities to grow!
-<br>
+<br><br>
 👤 E-mail and phone number available upon request. ~or if you happen to find them sprinkled throughout the internet~
 <br>
-
+<br>
 <p align="center"> As of 2023: <img src="https://komarev.com/ghpvc/?username=paulageronimo" alt="paulageronimo" /> </p>
