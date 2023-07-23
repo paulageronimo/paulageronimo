@@ -6,4 +6,4 @@
 <a href="https://www.linkedin.com/in/~pau/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Paula_Geronimo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/~pau/"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulageronimo" alt="paulageronimo" /> </p>
+<p align="center"> As of 2023: <img src="https://komarev.com/ghpvc/?username=paulageronimo" alt="paulageronimo" /> </p>
