@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/~pau/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Paula_Geronimo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/~pau/"></a>
 </p>
 
-🤓 I am a highly motivated and results-driven student passionate about technology and innovation.
+🤓 I am a highly motivated and results-driven individual passionate about technology and innovation.
 <br><br>
-👩🏽‍💻 My expertise lies in iOS and Web app development, API development, and organizational leadership. I am committed to delivering unique problem-solving and diverse perspectives.
+👩🏽‍💻 My interests are in Web App development, API development, and leadership. I am committed to delivering unique problem-solving and diverse perspectives.
 <br><br>
 🌱 I am passionate about technology and innovation-- always looking for new challenges and opportunities to grow!
 <br><br>
